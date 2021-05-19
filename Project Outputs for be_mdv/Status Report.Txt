@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [be_mdv.PcbDoc]
+   Generated File[be_mdv.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:32:19 On 13.04.2021
