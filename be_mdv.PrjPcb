@@ -65,7 +65,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -135,48 +135,48 @@ DocumentPath=Project Outputs for be_mdv\BOM\be_mdv.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=GlobalOrganizationName
-Value=НГУ
+Name=Утвердил
+Value=Прокопьев
 
 [Parameter2]
-Name=GlobalProjectName1
-Value=Схема электрическая
+Name=Т.Контр.
+Value=Селезнев
 
 [Parameter3]
-Name=GlobalProjectName2
-Value=принципиальная.
+Name=Разработал
+Value=Пелемешко
 
 [Parameter4]
-Name=GlobalProjectName3
-Value=Модуль датчиков вибрации
+Name=Проверил
+Value=Стюф
 
 [Parameter5]
-Name=GlobalProjectNumber
-Value=ЮМП.250.270.042.01
+Name=Норм.Контр.
+Value=Задорожная
 
 [Parameter6]
 Name=GlobalProjectRevision
 Value=#1.0
 
 [Parameter7]
-Name=Норм.Контр.
-Value=Задорожная
+Name=GlobalProjectNumber
+Value=ЮМП.250.270.042.01
 
 [Parameter8]
-Name=Проверил
-Value=Стюф
+Name=GlobalProjectName3
+Value=Модуль датчиков вибрации
 
 [Parameter9]
-Name=Разработал
-Value=Пелемешко
+Name=GlobalProjectName2
+Value=принципиальная.
 
 [Parameter10]
-Name=Т.Контр.
-Value=Селезнев
+Name=GlobalProjectName1
+Value=Схема электрическая
 
 [Parameter11]
-Name=Утвердил
-Value=Прокопьев
+Name=GlobalOrganizationName
+Value=НГУ
 
 [Configuration1]
 Name=Sources
@@ -1167,28 +1167,28 @@ MatchStrictly2=1
 PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=\3FUJTWNZF
-DocumentName0=mdv_commutator.SchDoc
+UniqueIDPath0=\2FUJTWNZF
+DocumentName0=mdv_commutator_v2.SchDoc
 IsEnabled0=1
 SelectionScope0=All
-Order0=4
-IndexEnabled0=1
+Order0=3
+IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=\1FUJTWNZF
-DocumentName1=mdv_commutator.SchDoc
+UniqueIDPath1=\3FUJTWNZF
+DocumentName1=mdv_commutator_v2.SchDoc
 IsEnabled1=1
 SelectionScope1=All
-Order1=2
-IndexEnabled1=1
+Order1=4
+IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\2FUJTWNZF
-DocumentName2=mdv_commutator.SchDoc
+UniqueIDPath2=\4FUJTWNZF
+DocumentName2=mdv_commutator_v2.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=3
-IndexEnabled2=1
+Order2=5
+IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
 UniqueIDPath3=
@@ -1199,12 +1199,12 @@ Order3=1
 IndexEnabled3=1
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=\4FUJTWNZF
-DocumentName4=mdv_commutator.SchDoc
+UniqueIDPath4=\1FUJTWNZF
+DocumentName4=mdv_commutator_v2.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=5
-IndexEnabled4=1
+Order4=2
+IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
 
