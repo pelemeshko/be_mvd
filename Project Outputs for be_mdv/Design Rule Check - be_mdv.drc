@@ -1,0 +1,55 @@
+Protel Design System Design Rule Check
+PCB File : F:\YandexDisk2\YandexDisk\OAI_NSU\Altium_projects\KVV\be_mvd\be_mdv.PcbDoc
+Date     : 25.05.2021
+Time     : 19:17:48
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad VT4-6(100.404mm,201.414mm) on Top Layer And Track (99.79mm,207.965mm)(100.851mm,207.965mm) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=2mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Room dv_commutator_v22 (Bounding Region = (83.5mm, 147.5mm, 108.733mm, 213mm) (InComponentClass('dv_commutator_v22'))
+Rule Violations :0
+
+Processing Rule : Room dv_commutator_v21 (Bounding Region = (58.299mm, 147.495mm, 83.533mm, 212.995mm) (InComponentClass('dv_commutator_v21'))
+Rule Violations :0
+
+Processing Rule : Room dv_commutator_v24 (Bounding Region = (142.75mm, 147.5mm, 167.983mm, 213mm) (InComponentClass('dv_commutator_v24'))
+Rule Violations :0
+
+Processing Rule : Room dv_commutator_v23 (Bounding Region = (117.75mm, 147.5mm, 142.983mm, 213mm) (InComponentClass('dv_commutator_v23'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 1
+Waived Violations : 0
+Time Elapsed        : 00:00:01
