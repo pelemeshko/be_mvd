@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for be_mdv
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -127,56 +127,124 @@ DocumentPath=Project Outputs for be_mdv\ExportIDF\be_mdv.brd
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for be_mdv\ExportSTEP\be_mdv.step
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.brd
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.G2
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for be_mdv\ExportSTEP\be_mdv.step
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=Project Outputs for be_mdv\BOM\be_mdv.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument20]
+DocumentPath=Project Outputs for be_mdv\Design Rule Check - be_mdv.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Утвердил
-Value=Прокопьев
+Name=GlobalOrganizationName
+Value=НГУ
 
 [Parameter2]
-Name=Т.Контр.
-Value=Селезнев
+Name=GlobalProjectName1
+Value=Схема электрическая
 
 [Parameter3]
-Name=Разработал
-Value=Пелемешко
+Name=GlobalProjectName2
+Value=принципиальная.
 
 [Parameter4]
-Name=Проверил
-Value=Стюф
+Name=GlobalProjectName3
+Value=Модуль датчиков вибрации
 
 [Parameter5]
-Name=Норм.Контр.
-Value=Задорожная
+Name=GlobalProjectNumber
+Value=ЮМП.250.270.042.01
 
 [Parameter6]
 Name=GlobalProjectRevision
 Value=#1.0
 
 [Parameter7]
-Name=GlobalProjectNumber
-Value=ЮМП.250.270.042.01
+Name=Норм.Контр.
+Value=Задорожная
 
 [Parameter8]
-Name=GlobalProjectName3
-Value=Модуль датчиков вибрации
+Name=Проверил
+Value=Стюф
 
 [Parameter9]
-Name=GlobalProjectName2
-Value=принципиальная.
+Name=Разработал
+Value=Пелемешко
 
 [Parameter10]
-Name=GlobalProjectName1
-Value=Схема электрическая
+Name=Т.Контр.
+Value=Селезнев
 
 [Parameter11]
-Name=GlobalOrganizationName
-Value=НГУ
+Name=Утвердил
+Value=Прокопьев
 
 [Configuration1]
 Name=Sources
@@ -189,7 +257,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for be_mdv
 
 [OutputGroup1]
 Name=Netlist Outputs
