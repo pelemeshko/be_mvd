@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for be_mdv
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -92,7 +92,7 @@ DocumentUniqueId=LDYBPFTT
 DocumentPath=mdv_commutator_v2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=1
@@ -122,83 +122,36 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=be_mdv.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for be_mdv\ExportIDF\be_mdv.brd
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.brd
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.G1
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.G2
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.REP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
 DocumentPath=Project Outputs for be_mdv\ExportSTEP\be_mdv.step
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for be_mdv\Gerbers\be_mdv\be_mdv.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for be_mdv\BOM\be_mdv.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for be_mdv\Design Rule Check - be_mdv.html
 DItemRevisionGUID=
 
@@ -220,7 +173,7 @@ Value=Модуль датчиков вибрации
 
 [Parameter5]
 Name=GlobalProjectNumber
-Value=ЮМП.250.270.042.01
+Value=ЮМП.250.270.041.05
 
 [Parameter6]
 Name=GlobalProjectRevision
@@ -257,7 +210,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for be_mdv
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1235,43 +1188,43 @@ MatchStrictly2=1
 PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=\2FUJTWNZF
+UniqueIDPath0=\3FUJTWNZF
 DocumentName0=mdv_commutator_v2.SchDoc
-IsEnabled0=1
+IsEnabled0=0
 SelectionScope0=All
-Order0=3
+Order0=4
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=\3FUJTWNZF
+UniqueIDPath1=\2FUJTWNZF
 DocumentName1=mdv_commutator_v2.SchDoc
-IsEnabled1=1
+IsEnabled1=0
 SelectionScope1=All
-Order1=4
+Order1=3
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\4FUJTWNZF
-DocumentName2=mdv_commutator_v2.SchDoc
+UniqueIDPath2=
+DocumentName2=be_mdv.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=5
-IndexEnabled2=0
+Order2=1
+IndexEnabled2=1
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=
-DocumentName3=be_mdv.SchDoc
-IsEnabled3=1
+UniqueIDPath3=\1FUJTWNZF
+DocumentName3=mdv_commutator_v2.SchDoc
+IsEnabled3=0
 SelectionScope3=All
-Order3=1
-IndexEnabled3=1
+Order3=2
+IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=\1FUJTWNZF
+UniqueIDPath4=\4FUJTWNZF
 DocumentName4=mdv_commutator_v2.SchDoc
-IsEnabled4=1
+IsEnabled4=0
 SelectionScope4=All
-Order4=2
+Order4=5
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
@@ -1290,7 +1243,61 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-FullReplace=1
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=1NT251A2 OS.Schlib
+ComponentDesignItemID0=1NT251A2 OS
+ComponentSymbolReference0=1NT251A2 OS
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Commutator.IntLib
+ComponentDesignItemID1=RPS45
+ComponentSymbolReference1=RPS45
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Connector.IntLib
+ComponentDesignItemID2=Header 2X12
+ComponentSymbolReference2=Header 2X12
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Connector.IntLib
+ComponentDesignItemID3=Header 2X20
+ComponentSymbolReference3=Header 2X20
+ComponentUpdate3=0
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Diod.IntLib
+ComponentDesignItemID4=2DS627A
+ComponentSymbolReference4=2DS627A
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Passive.IntLib
+ComponentDesignItemID5=Capacitor
+ComponentSymbolReference5=Capacitor
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Passive.IntLib
+ComponentDesignItemID6=Resistor
+ComponentSymbolReference6=Resistor
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Power_Monitor.IntLib
+ComponentDesignItemID7=AD8212S
+ComponentSymbolReference7=AD8212S
+ComponentUpdate7=0
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=SNP411-31.Schlib
+ComponentDesignItemID8=СНП411-31
+ComponentSymbolReference8=СНП411-31
+ComponentUpdate8=0
+ComponentIsDeviceSheet8=0
+FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
 PreserveParameterLocations=1
@@ -1303,6 +1310,112 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=ComponentLink1Description
+ParameterUpdate2=1
+ParameterName3=ComponentLink1URL
+ParameterUpdate3=1
+ParameterName4=Description
+ParameterUpdate4=1
+ParameterName5=Library Reference
+ParameterUpdate5=1
+ParameterName6=Value
+ParameterUpdate6=0
+ParameterName7=Диэлектрик
+ParameterUpdate7=1
+ParameterName8=Назначение
+ParameterUpdate8=1
+ParameterName9=Наименование
+ParameterUpdate9=1
+ParameterName10=Напряжение
+ParameterUpdate10=1
+ParameterName11=Потребление, Вт
+ParameterUpdate11=1
+ParameterName12=Точность
+ParameterUpdate12=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=401.16-3
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=FlatPack-10
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=FlatPack-10_MSOP-8
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=FlatPack-14.PcbLib
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=PBD-12
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=PBD-20
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=PBD2-20s
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=PLD2-12
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=PLD2-12R
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=PLD2-20
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=PLD2-20R
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=RPS-45-1
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=SD87340-12
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=SD87340-20
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=SMD_0402
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=SMD_0603
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=SMD_0805
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=SMD_1206
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=SMD_1206-0805
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=SMD_6332
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=SMD_C0402
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=SMD_C0603
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=SMD_C0805
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=SMD_C1206
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=SMD_C1206-C0805
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=СНП411-31
+ModelUpdate25=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
