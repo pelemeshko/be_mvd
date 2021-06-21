@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for be_mdv
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -156,48 +156,48 @@ DocumentPath=Project Outputs for be_mdv\Design Rule Check - be_mdv.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=GlobalOrganizationName
-Value=НГУ
+Name=Утвердил
+Value=Прокопьев
 
 [Parameter2]
-Name=GlobalProjectName1
-Value=Схема электрическая
+Name=Т.Контр.
+Value=Селезнев
 
 [Parameter3]
-Name=GlobalProjectName2
-Value=принципиальная.
+Name=Разработал
+Value=Пелемешко
 
 [Parameter4]
-Name=GlobalProjectName3
-Value=Модуль датчиков вибрации
+Name=Проверил
+Value=Стюф
 
 [Parameter5]
-Name=GlobalProjectNumber
-Value=ЮМП.250.270.041.05
+Name=Норм.Контр.
+Value=Задорожная
 
 [Parameter6]
 Name=GlobalProjectRevision
 Value=#1.0
 
 [Parameter7]
-Name=Норм.Контр.
-Value=Задорожная
+Name=GlobalProjectNumber
+Value=ЮМП.250.270.041.05 Э3
 
 [Parameter8]
-Name=Проверил
-Value=Стюф
+Name=GlobalProjectName3
+Value=Модуль датчиков вибрации
 
 [Parameter9]
-Name=Разработал
-Value=Пелемешко
+Name=GlobalProjectName2
+Value=принципиальная.
 
 [Parameter10]
-Name=Т.Контр.
-Value=Селезнев
+Name=GlobalProjectName1
+Value=Схема электрическая
 
 [Parameter11]
-Name=Утвердил
-Value=Прокопьев
+Name=GlobalOrganizationName
+Value=НГУ
 
 [Configuration1]
 Name=Sources
@@ -210,7 +210,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for be_mdv
 
 [OutputGroup1]
 Name=Netlist Outputs
